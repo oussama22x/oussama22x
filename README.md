@@ -28,15 +28,14 @@ const oussama = {
     location: "Morocco 🇲🇦",
     education: "1337 School (42 Network) Graduate",
     currentStatus: "Software Developer seeking new opportunities",
-    languages: ["Arabic (Native)", "English (Intermediate)", "French"],
-    passion: "Building systems from scratch & solving complex problems",
+    languages: ["Arabic", "English"],
+    passion: "Building systems from scratch & solving problems",
     contact: "oussamaelboukhari11@gmail.com",
     
     getCurrentFocus: () => {
         return [
             "System Programming & Low-level Development",
             "Web Technologies & Modern Frameworks", 
-            "Open Source Contributions",
             "Continuous Learning & Skill Enhancement"
         ];
     },
