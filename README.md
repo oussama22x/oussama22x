@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+Software+Developer;🎓+1337+School+Graduate;⚡+System+Programming+Enthusiast;🌟+Always+Learning+%26+Growing;💡+Building+Tomorrow's+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Developer;System+Programming+Enthusiast;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(88, 166, 255, 0.3);"/>
@@ -28,14 +28,15 @@ const oussama = {
     location: "Morocco 🇲🇦",
     education: "1337 School (42 Network) Graduate",
     currentStatus: "Software Developer seeking new opportunities",
-    languages: ["Arabic", "English"],
-    passion: "Building systems from scratch & solving problems",
+    languages: ["Arabic (Native)", "English (Intermediate)", "French"],
+    passion: "Building systems from scratch & solving complex problems",
     contact: "oussamaelboukhari11@gmail.com",
     
     getCurrentFocus: () => {
         return [
             "System Programming & Low-level Development",
             "Web Technologies & Modern Frameworks", 
+            "Open Source Contributions",
             "Continuous Learning & Skill Enhancement"
         ];
     },
@@ -83,19 +84,47 @@ Recent graduate from **1337 School** (part of the prestigious **42 Network**) wi
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="35" /> GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="35" /> Achievements & Experience
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oelboukh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_radius=10"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oelboukh&layout=compact&theme=tokyonight&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10"/>
-
-</div>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="🎓" width="50"/>
+<br/><strong>1337 School Graduate</strong>
+<br/><em>42 Network</em>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="⚙️" width="50"/>
+<br/><strong>System Programming</strong>
+<br/><em>Low-level Development</em>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="🌐" width="50"/>
+<br/><strong>Full-Stack Development</strong>
+<br/><em>Web Technologies</em>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oelboukh&theme=tokyonight&border=58A6FF&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&border_radius=10" alt="GitHub Streak"/>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="🔥" width="25" /> Current Focus
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 600px; margin: 0 auto;">
+
+**🚀 Building Scalable Systems**  
+Creating efficient, maintainable solutions
+
+**🧠 Problem Solving**  
+Tackling complex algorithmic challenges
+
+**🌱 Continuous Learning**  
+Exploring new technologies daily
+
+**🤝 Open Source**  
+Contributing to the developer community
+
+</div>
 
 </div>
 
