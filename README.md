@@ -26,17 +26,16 @@
 ```javascript
 const oussama = {
     location: "Morocco 🇲🇦",
-    education: "1337 School (42 Network) Graduate",
+    education: "1337 School (42 Network",
     currentStatus: "Software Developer seeking new opportunities",
-    languages: ["Arabic (Native)", "English (Intermediate)", "French"],
-    passion: "Building systems from scratch & solving complex problems",
+    languages: ["Arabic, "English"],
+    passion: "Building systems from scratch & solving problems",
     contact: "oussamaelboukhari11@gmail.com",
     
     getCurrentFocus: () => {
         return [
             "System Programming & Low-level Development",
             "Web Technologies & Modern Frameworks", 
-            "Open Source Contributions",
             "Continuous Learning & Skill Enhancement"
         ];
     },
@@ -47,11 +46,6 @@ const oussama = {
 };
 ```
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="🎓" width="30" /> Background
-
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="border-radius: 15px; margin-left: 20px;"/>
-
-Recent graduate from **1337 School** (part of the prestigious **42 Network**) with a strong foundation in system programming and web development. I'm passionate about creating efficient, scalable solutions and love tackling challenging problems from the ground up.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -84,27 +78,6 @@ Recent graduate from **1337 School** (part of the prestigious **42 Network**) wi
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="35" /> Achievements & Experience
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="🎓" width="50"/>
-<br/><strong>1337 School Graduate</strong>
-<br/><em>42 Network</em>
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="⚙️" width="50"/>
-<br/><strong>System Programming</strong>
-<br/><em>Low-level Development</em>
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="🌐" width="50"/>
-<br/><strong>Full-Stack Development</strong>
-<br/><em>Web Technologies</em>
-</td>
-</tr>
-</table>
 
 <br/>
 
